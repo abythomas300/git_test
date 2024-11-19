@@ -1,1 +1,2 @@
-This is the first file I am creating inside my git repository.
+This is the first file I am creating inside my GIT repository.
+
